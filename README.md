@@ -50,6 +50,7 @@ The details are specific to the operating system you’re using:
 
 * [Linux with X11](docs/second-screen/linux-x11.md)
 * [Linux with Sway](docs/second-screen/linux-sway.md)
+* KDE Wayland `krfb-virtualmonitor --name remarkable --resolution 1404x1872 --password 114514 --port 5900`
 * macOS (not officially supported yet, see [workarounds from users](https://github.com/matteodelabre/vnsee/issues/21))
 * Windows (not officially supported yet, see [workarounds from users](https://github.com/matteodelabre/vnsee/issues/13))
 
